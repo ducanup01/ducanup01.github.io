@@ -40,7 +40,9 @@ Next up we create a table
 
 This line should have a footnote [^firstlink]
 
-Second line with a footnote [^second link]
+Second line with a footnote [^secondlink]
+
+Just dont put spaces in reference link
 
 
 
@@ -67,5 +69,5 @@ Second line with a footnote [^second link]
 
 [^firstlink]: My first reference
 
-[^second link]: Idk what prefixing with 2 lines means and im not doing it
+[^secondlink]: Idk what prefixing with 2 lines means and im not doing it
 
