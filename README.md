@@ -66,5 +66,6 @@ Second line with a footnote [^second link]
 ---
 
 [^firstlink]: My first reference
+
 [^second link]: Idk what prefixing with 2 lines means and im not doing it
 
