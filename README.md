@@ -22,6 +22,8 @@ To do list:
 
 I need to highlight these ==very important tasks==.
 
+Doesn't seem like highlighting is working
+
 4. What about now
 5. ha
 
@@ -39,4 +41,30 @@ Next up we create a table
 This line should have a footnote [^firstlink]
 
 Second line with a footnote [^second link]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+[^firstlink]: My first reference
+[^second link]: Idk what prefixing with 2 lines means and im not doing it
 
